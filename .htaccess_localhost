@@ -1,0 +1,10 @@
+RewriteEngine On
+RewriteBase /PTA%20V3
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+
+Redirect 301 /veri /verification
+
+ErrorDocument 404 /PTA%20V3/pagenotfound.php

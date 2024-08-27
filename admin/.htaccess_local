@@ -1,0 +1,8 @@
+RewriteEngine On
+RewriteBase /PTA%20V3/admin
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+
+ErrorDocument 404 /PTA_2/admin/pagenotfound.php

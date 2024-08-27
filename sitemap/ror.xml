@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for https://sistempenempahanapd.000webhostapp.com/</title>
+  <link>https://sistempenempahanapd.000webhostapp.com/</link>
+
+<item>
+     <link>https://sistempenempahanapd.000webhostapp.com/</link>
+     <title>Sistem Penempahan Bilik APD</title>
+     <description>Sistem Penempahan Bilik APD</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://sistempenempahanapd.000webhostapp.com/index</link>
+     <title>Sistem Penempahan Bilik APD</title>
+     <description>Sistem Penempahan Bilik APD</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://sistempenempahanapd.000webhostapp.com/user_minggu?m=ini</link>
+     <title>Sistem Penempahan Bilik APD | Minggu</title>
+     <description>Sistem Penempahan Bilik APD | Minggu</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://sistempenempahanapd.000webhostapp.com/user_minggu?m=depan</link>
+     <title>Sistem Penempahan Bilik APD | Minggu</title>
+     <description>Sistem Penempahan Bilik APD | Minggu</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://sistempenempahanapd.000webhostapp.com/user_login</link>
+     <title>Sistem Penempahan Bilik APD</title>
+     <description>Sistem Penempahan Bilik APD</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
